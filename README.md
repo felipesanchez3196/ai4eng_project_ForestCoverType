@@ -5,7 +5,7 @@ Santiago Ramírez Pérez.
 1017240851.
 Ingeniería eléctrica.
 
-Véronica Palacio Muñoz.
+Verónica Palacio Muñoz.
 1017247211
 Ingeniería de materiales.
 
